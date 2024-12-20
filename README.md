@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on Webdevlopment;
 - 📫 How to reach me rishuraj721happy@gamil.com
-- 😄 Pronouns: Rihsu;
+- 😄 Pronouns: Rishu;
 - ⚡ Fun fact:Dont be frank to me;
 
 <!---
